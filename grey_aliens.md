@@ -10,49 +10,69 @@ These rules envision an alternate course for the end of WWII. The "foo" fighter 
 
 The Greys are meant to represent a near unstoppable force, at least during the time period covered. The key to fun Grey games is to play with the intended force asymmetry, in particular exploring different victory conditions. The intent is for the Grey machines to be just barely vulnerable to the most powerful human guns while giving them a high likelihood of destroying their targets. For space opera fans who want more of a fair fight, there is also a list of stereotypical Warriors to aid in battles against the Greys.
 
-This is the third draft of the unofficial force description. Further play testing will result in suggested changes, particularly around point values and scenario balance.
+This is the third draft of the unofficial force description, updated for the fourth edition of Flames of War.
 
 ## Introduction
 
 It's late 1943. They have been watching us kill each other. Their calculating minds were going to wait for the dismantling of the vast worldwide machinery of war, but invading and harvesting a planet defended with nuclear weapons is messier. The strategic brains have reasoned that the invasion should begin at once.
-
-1 
-
-2 15mm.co.uk is a brand name of Alector Ltd which also owns Alternative Armies, the home of the famous Flintloque and Slaughterloo fantasy Napoleonic wargames, Typhon the game of Greek Mythology, Erin the game of Celtic Mythology, Attrition the SciFi ad- venture game, HOT and HOF 15mm systems and Alien Squad Leader (ASQL) 15mm SciFi wargame. Also 28mm Generic Fantasy ranges and the DarkeStorme fantasy skirmish system for 15mm and 28mm gaming. Any references to or representations of 15mm.co.uk products are used without their permission, however no challenge to their status is intended. All rights are reserved to their respective owners.
    
- Greys Special Rules
-These rules apply only to Grey teams and groups.
-From Another Planet
-For Science
-The Grey scientists are almost as prominent as their military leaders. They frequently take over part of a landing force in pursuit of new scientific knowledge.
-This doctrine functions exactly like the German Kampfgruppe doctrine. The 2iC Science Team can take up to half of the Sections or Squads from any single Combat or Weapons Platoon and create a new Science Platoon commanded by the 2iC Science Team.
-Advanced Aliens
+## Greys Special Rules
+
+These rules apply only to Grey teams.
+
+### From Another Planet
+
+#### Advanced Aliens
+
 The Greys are not only alien in form and technology, their very thoughts are alien to the humans who encounter them. Their strange weapons, advanced technology, and tactics rattle enemy combatants. They do not doubt their ultimate victory, nor should they.
 All Greys are Arrogant (2+ Motivation) Advanced (2+ Skill Test, 5+ Score to Hit).
-Psychological Operations
+
+#### Psychological Operations
+
 The Greys are adept at undermining the confidence of their enemies. They frequently use ultrasonic and subliminal projectors to add to the effect of their strangeness and their technological superiority.
+
 All Grey opponents add +1 to the score needed for Motivation tests.
-Filthy Apes
+
+#### Filthy Apes
+
 The Greys disdain close contact with humans, except as part of cruel experiments.
+
 Greys may not Assault.
+
 Greys never Charge as part of a CounterAttack. Surviving Grey teams already within 2”/ 5cm may fight as usual. Other teams do not move.
+
 In terms of game flavor, Greys actually prefer to Break Off from Assaults, but there are no additional rules, beyond the existing Motivation tests to force this.
 
- Technology
-Unobtanium
+### Technology
+
+#### Unobtanium
+
 Alien saucers and robots are clad in alloys previously unknown to human scientists. Hails of shells barely dent them.
-In addition to conferring the high all around armor protection found on most Grey units, Unobtanium confers a re-roll on all failed Armour Saves and Infantry Saves for units protected by it.
-Death Rays
-A bright beam of hissing, popping white light reaches out to incinerate human and steel.
+
+In addition to conferring the high all-around armor protection found on most Grey units, Unobtanium confers a re-roll on all failed Armour Saves and Infantry Saves for units protected by it.
+
+#### Death Rays
+
+A bright beam of hissing, popping white light reaches out to incinerate flesh and steel.
+
 When an opponent team is hit with a Death Ray weapon, Count Bail Out results as Destroyed. Passengers are automatically Destroyed (no Passenger Save) when their Vehicles are Destroyed.
-Robots
+
+#### Robots
+
 Lumbering mechanical automatons form the back bone of any Grey invasion force, incinerating all before them with death rays. Robots are essentially walking tanks operating in teams. The methodical robot brains can manage the simple task of walking while shooting.
-Grey Robot teams are treated like Very Slow Tanks that can't move At the Double. Grey Robots do not suffer the +1 penalty for firing an ROF 1 weapon after moving.
+
+Grey Robot teams are treated like Very Slow Tanks that can't move At the Double.
+
+Grey Robots do not suffer the +1 penalty for firing an ROF 1 weapon after moving.
+
 Each Bail Out result rolled for a Robot team represents one of the Robots being disabled, cutting the Robot team’s number of weapons by one. Three cumulative Bail Out results or a Destroyed result destroys a Robot team.
+
 Foot vehicles face tests for being Bogged Down, just like other vehicles.
  
- Saucers
-Hover
+#### Saucers
+
+##### Hover
+
 Invasion support saucers hover above the battlefield, ignoring all but the tallest buildings and terrain. They employ anti-gravity propulsion units to maneuver above the field of battle. Saucers are capable of flight between the Grey mother ships and ground conflicts, but are not designed for sustained flight operations at altitude, unlike their “Foo” Fighter cousins.
 Rough Terrain
 16”/40cm 16”/40cm 16”/40cm
@@ -72,48 +92,8 @@ Cross-country
 Grey "foos," as described by human pilots, are nimble, glowing saucers that can change their vectors seemingly in violation of the laws of physics, making them difficult to target. Although often seen flying in strange formations, "foos" always attack alone. "Foos" are equipped with advanced sensors and instruments to aid in finding targets on the ground and in the air.
 Don't roll for the number of Grey Aircraft. A successful Ground Attack roll always results in 1 aircraft.
 Grey Aircraft add -1 to the score to range in and need a 5+ for Fighter Interception. Anti-aircraft teams add +1 to the score needed to hit Grey Aircraft.
-Captured Alien Technology
-Humans are resourceful. Soldiers and scientists scavenge through the wreckage of crashed saucers and burnt out robots, looking for knowledge of Grey weaknesses and weapons that can keep humanity in the fight.
-In Late War games, like the Invasion scenario below, human forces may have the advantage of captured alien technology and soldiers with first hand experience fighting the Greys. Any Late War force battling the Greys may include, at no additional point cost, up to two options from the list below.
-Human Death Ray Teams
-We’re still trying to figure out how they work, but we know which direction to point them.
-Up to one Gun Platoon with no more than four Gun teams may replace its teams’ Guns with Captured Death Rays.
-OR
-Replace the main gun of up to two Tanks with Captured Death Rays.
- 
- Unobtanium Armour Plates
-A single crashed Saucer can yield enough Unobtanium to clad several tanks.
-One Tank Platoon in the company, with up to five tanks, can armor all of its Tanks in layers of Unobtanium plates. The effected Tanks gain Front and Side Armour of 10 or +1, if already 10 or higher and the Unobtanium special rule, allowing re-rolls to armour saves missed on the Front or Side Armour.
-In addition, the Tanks are Overloaded and shift their Movement Special Rules as described in the table below.
-Becomes
-Fast Tank
-(loose Fast Tank)
-Slow Tank
-Very Slow Tank
-add Plodding (still Very Slow)
-A Plodding Vehicle cannot move At the Double.
-Remote Control Robot
-Military scientists have salvaged parts from one or more Grey Robots to reconstruct a functional Robot and replaced the Tactical Brain with wiring for remote control. Remote Control Robots are essentially Plodding Foot tanks with human controllers and a support/transport truck that can be used as a Recovery Vehicle, but only for human Remote Control Robot teams.
-A company may include a single Captured Robot team, attached to the Company HQ Section, in addition to standard force organization allowances.
-Bail Outs are treated normally. The humans run away and dive for cover, coming back to the Robot if it is still standing.
-A Plodding Vehicle cannot move At the Double.
-Foot vehicles face tests for being Bogged Down, just like other vehicles.
-To represent a Remote Control Robot team, place a single Robot on an Infantry base with 2 human models carrying appropriate equipment, like communications gear or big wrenches.
-  Original Movement Special Rule
- Light Tank
- Fast Tank
- (nothing from this list)
- Slow Tank
- Very Slow Tank
 
- Captured Mk1 Saucer
-“I have to procure one of these for myself.” -- Captain Daniel Hilliard, USAF, saucer pilot Attach a Captured Mk1 Saucer to the Company HQ.
-The only difference between a Mk1 Saucer and a Captured Mk1 Saucer is that the captured version is Unreliable. Should the Captured Saucer fail an Unreliable test, it must pass a Skill test or be Destroyed.
-Alien Hunters
-Many of these hardened fighters have fought the Greys before. The others have been trained in specific Grey fighting tactics. Their minds are prepared and they know where to hit the alien machines.
-Any one Platoon is immune to Psychological Operations and gains the Anti- Unobtanium special rule. Grey teams and vehicles do not get the benefit of the Unobtanium re-roll when hit by this Platoon.
-
- Alien Invasion Force
+Alien Invasion Force
 "The outcry from the hundreds of millions whose chief concern is the long future of themselves and their children will, I hope, become so universal and so insistent that no man, no government anywhere, can stand apart from this battle.” -- Dwight D. Eisenhower, SACAEF
 Headquarters 1 Force HQ
 Headquarters
@@ -207,13 +187,61 @@ Beam
   Aircraft
  “Foo” Fighter
 
- Gun Team
+## Captured Alien Technology
+
+Humans are resourceful. Soldiers and scientists scavenge through the wreckage of crashed saucers and burnt out robots, looking for knowledge of Grey weaknesses and weapons that can keep humanity in the fight.
+
+In Late-War games, like the Invasion scenario below, human forces may have the advantage of captured alien technology and soldiers with first hand experience fighting the Greys. Any Late-War force battling the Greys may include, at no additional point cost, up to two options from the list below.
+
+### Human Death Ray Teams
+We’re still trying to figure out how they work, but we know which direction to point them.
+Up to one Gun Platoon with no more than four Gun teams may replace its teams’ Guns with Captured Death Rays.
+OR
+Replace the main gun of up to two Tanks with Captured Death Rays.
+ 
+### Unobtanium Armour Plates
+A single crashed Saucer can yield enough Unobtanium to clad several tanks.
+One Tank Platoon in the company, with up to five tanks, can armor all of its Tanks in layers of Unobtanium plates. The effected Tanks gain Front and Side Armour of 10 or +1, if already 10 or higher and the Unobtanium special rule, allowing re-rolls to armour saves missed on the Front or Side Armour.
+In addition, the Tanks are Overloaded and shift their Movement Special Rules as described in the table below.
+Becomes
+Fast Tank
+(loose Fast Tank)
+Slow Tank
+Very Slow Tank
+add Plodding (still Very Slow)
+A Plodding Vehicle cannot move At the Double.
+
+### Remote Control Robot
+Military scientists have salvaged parts from one or more Grey Robots to reconstruct a functional Robot and replaced the Tactical Brain with wiring for remote control. Remote Control Robots are essentially Plodding Foot tanks with human controllers and a support/transport truck that can be used as a Recovery Vehicle, but only for human Remote Control Robot teams.
+A company may include a single Captured Robot team, attached to the Company HQ Section, in addition to standard force organization allowances.
+Bail Outs are treated normally. The humans run away and dive for cover, coming back to the Robot if it is still standing.
+A Plodding Vehicle cannot move At the Double.
+Foot vehicles face tests for being Bogged Down, just like other vehicles.
+To represent a Remote Control Robot team, place a single Robot on an Infantry base with 2 human models carrying appropriate equipment, like communications gear or big wrenches.
+  Original Movement Special Rule
+ Light Tank
+ Fast Tank
+ (nothing from this list)
+ Slow Tank
+ Very Slow Tank
+
+### Captured Mk1 Saucer
+“I have to procure one of these for myself.” -- Captain Daniel Hilliard, USAF, saucer pilot Attach a Captured Mk1 Saucer to the Company HQ.
+The only difference between a Mk1 Saucer and a Captured Mk1 Saucer is that the captured version is Unreliable. Should the Captured Saucer fail an Unreliable test, it must pass a Skill test or be Destroyed.
+Alien Hunters
+Many of these hardened fighters have fought the Greys before. The others have been trained in specific Grey fighting tactics. Their minds are prepared and they know where to hit the alien machines.
+Any one Platoon is immune to Psychological Operations and gains the Anti- Unobtanium special rule. Grey teams and vehicles do not get the benefit of the Unobtanium re-roll when hit by this Platoon.
+
+### Gun Team
   Weapon
  Captured Death Ray
 Mobility Range ROF At Fp Notes Man-packed 16”/40cm 1 12 3+ Death Ray
-Scenarios
+
+## Scenarios
+
 There is a Campaign section following the scenarios. It provides a fair narrative structure for two players to try out these rules and to play the scenarios, even if the rules and individual scenarios are still unbalanced.
-Close Encounter (Early or Mid War)
+
+## Close Encounter (Early or Mid War)
 The Grey scientists have been probing humanity for weaknesses, conducting experiments to find ways to speed the success of an invasion. This early or mid war scenario portrays an encounter with a small Grey “Science” party.
 Close Encounter uses the Night Fighting, Delayed Reserves, Scattered Reserves, and Prepared Positions special rules.
 Grey Forces (Attacker)
@@ -376,10 +404,13 @@ Characteristics
 Warrior One is a Warrior and an Inde- pendent. Warrior One can be attached to any American Company for __ points.
 Warrior One is a Fearless Veteran.
 He has Range 16”/40cm, ROF 2 whether he moves or not, Anti-tank 14, and Fire- power 3+.
-il Professore
 Special Rules
 Unobtanium Armour: Warrior One makes all Infantry Saves on 2+, re-rolling failed saves. All Firepower tests involving Warrior One are taken at 6. Warrior One gets a (re-rollable) Infantry Save when hit in Assault.
-Il Professore is an enigmatic character who frequently appears when Earth, Italy in par- ticular, is under alien attack. Il Professore and his friends always seem to know more about the menace than the military people around them.
+
+### il Professore
+
+Il Professore is an enigmatic character who frequently appears when Earth, Italy in particular, is under alien attack. Il Professore and his friends always seem to know more about the menace than the military people around them.
+
 Characteristics
 il Professore is an Infantry Team, a War- rior, and an Independent. He can be at- tached to any non-German Company for 350 points.
 Il Professore is a Fearless Veteran. He cannot shoot and never attacks in an As- sautl.
@@ -389,7 +420,7 @@ nent skips a turn.
 Lore: If il Professore is within 2”/10cm of a friendly team, that team may roll 2 dice and add the results when they would roll a single die.
 Lucky Immortal: Il Professore can never be Destroyed. If he would be destroyed, he is Pinned Down instead.
 
- Splendiferous Man
+### Splendiferous Man
 Born on another planet, sent to Earth by his parents before the Greys destroyed his home world, and secretly adopted and raised by the 9th Earl of Shaftesbury and his wife, the 10th Earl of Shaftesbury has adopted the alter ego Splendiferous Man. Given super powers by the cosmic rays that bombarded his infant body on the journey to Earth, he has chosen to use his might to help others. From his Tower of Serenity on the shores of Lough Neagh, Splendiferous Man ventures out to take the fight to the Greys.
 Shaftesbury avoided the military service expected of a man of his age and status by feigning a case of exotic jungle fever. Free to change into his tights and cape at will, Splendiferous Man spends most of his time thinking about the best ways to help against the Germans. The arrival of the Greys has spurred him into real action.
 Characteristics
@@ -403,27 +434,51 @@ Invincible: Splendiferous Man automati- cally passes all Morale and Skill checks
 Secret Identity: Splendiferous Man tries to hide his secret identity. Embarrassed shouts of, “Shaftesbury!” or, “Anthony?” from officer friends are a constant danger. Each time Splendiferous Man moves to within 12”/30cm of any Command team or a Command team moves to within 12”/ 60cm of him, roll a die. On a roll of 3+ remove Splendiferous Man from the game. He counts as Destroyed.
 Splendiferanium: Your opponent selects one enemy team that is carrying this alien metal. While Splendiferous Man is within 12” /60cm of this team, he loses all of his Special Rules except Secret Identity.
 
- Harry S. Truman
-As the Greys close in on the last intact military installations, every man finds his pur- pose, “I’m an artillery officer, Alben. I belong on that field.”
-Characteristics
-Harry Truman is a Warrior. Truman can replace the Command team of any Late War American Gun or Artillery Platoon for +40 points.
-Special Rules
-Give ‘em Hell: Harry’s Platoon is Fear- less Veteran.
-Destiny: Each turn, you may select up to three dice to be rolled by Harry’s Platoon and one die to be rolled for an enemy team in response to an action by Harry’s Platoon. You place these dice on the ta- ble, choosing any value you desire, in- stead of rolling them. All other rules still apply, you are simply determining the value of the rolls instead of rolling the dice.
+### Harry S. Truman
 
- Alternate Alien Template
+As the Greys close in on the last intact military installations, every man finds his purpose, “I’m an artillery officer, Alben. I belong on that field.”
+
+#### Characteristics
+
+Harry Truman is a Warrior. Truman can replace the Command team of any Late War American Gun or Artillery Platoon for +40 points.
+
+#### Special Rules
+
+**Give ‘em Hell:** Harry’s Platoon is Fearless Veteran.
+
+**Destiny:** Each turn, you may select up to three dice to be rolled by Harry’s Platoon and one die to be rolled for an enemy team in response to an action by Harry’s Platoon. You place these dice on the table, choosing any value you desire, instead of rolling them. All other rules still apply, you are simply determining the value of the rolls instead of rolling the dice.
+
+## Alternate Aliens
+
+*This version of the alien invaders is intended for those who think grey aliens are too silly.*
+
 “Their” von Neuman probe detected the first faint artificial radio transmissions from the system as it completed its long breaking impulse. The probe spent two silent decades maneuvering into a solar orbit near the resource rich environment of the system’s primary asteroid belt. It continued to monitor the slowly growing transmissions from the third planet, learning to translate them, as it built the first machines it would use to “convert” the system. In addition to the conversion machines template, the probe retrieved neutralization templates from its design library, starting with the space tractors and mass displacement drives.
-Scenario: Alien Invasion (Late War)
-Attacker Forces
-• Asteroid bombardment
-• Nano-cybernetic bacteria • Clanking replicators
-Defender Forces
-Setup any force you want, up to any point cost.
-Preparation
-• The defender sets up his forces anywhere he wants. • The attacker holds all forces in reserve.
-Beginning the Game
-• The attacker begins with an asteroid bombardment, Destroying everything on the table
-Ending the Game
+
+### Scenario: Alien Invasion (Late-War)
+
+#### Attacker Forces
+
+- Asteroid bombardment
+- Nano-cybernetic bacteria
+- Clanking replicators
+
+#### Defender Forces
+
+The defender sets up any force they want, literally, up to any point cost, literally. They may ignore force organization restrictions and mix forces from different countries and sides of the war.
+
+#### Preparation
+
+- The defender sets up their forces anywhere they want.
+- The attacker holds all forces in reserve.
+
+#### Beginning the Game
+
+- The attacker begins with an asteroid bombardment, Destroying all teams on the table and any teams the defender has in reserve.
+
+#### Ending the Game
+
 The game ends after the attacker’s first turn.
-Who Won?
+
+#### Who Won?
+
 The attacker wins.
