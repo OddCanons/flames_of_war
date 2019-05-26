@@ -88,13 +88,22 @@ Road
 Cross-country
  Hover
 
- Grey Aircraft
-Grey "foos," as described by human pilots, are nimble, glowing saucers that can change their vectors seemingly in violation of the laws of physics, making them difficult to target. Although often seen flying in strange formations, "foos" always attack alone. "Foos" are equipped with advanced sensors and instruments to aid in finding targets on the ground and in the air.
-Don't roll for the number of Grey Aircraft. A successful Ground Attack roll always results in 1 aircraft.
-Grey Aircraft add -1 to the score to range in and need a 5+ for Fighter Interception. Anti-aircraft teams add +1 to the score needed to hit Grey Aircraft.
+### Grey Aircraft
 
-Alien Invasion Force
-"The outcry from the hundreds of millions whose chief concern is the long future of themselves and their children will, I hope, become so universal and so insistent that no man, no government anywhere, can stand apart from this battle.” -- Dwight D. Eisenhower, SACAEF
+Grey "foo fighters" or "foos", as described by human pilots, are nimble, glowing saucers, spheres, or triangles that can change their vectors seemingly in violation of the laws of physics, making them difficult to target. Although often seen flying in strange formations, foos always attack alone. Foos are equipped with advanced sensors and instruments to aid in finding targets on the ground and in the air.
+
+Don't roll for the number of Grey Aircraft. A successful Ground Attack roll always results in 1 aircraft.
+
+Grey Aircraft add -1 to the score to range in and need a 5+ for Fighter Interception.
+
+Anti-aircraft teams add +1 to the score needed to hit Grey Aircraft.
+
+## Grey Alien Invasion Force
+
+> "The outcry from the hundreds of millions whose chief concern is the long future of themselves and their children will, I hope, become so universal and so insistent that no man, no government anywhere, can stand apart from this battle.” - Dwight D. Eisenhower, SACAEF
+
+_Your Force must contain at least one Formation, and may contain as many Formations as you like._
+
 Headquarters 1 Force HQ
 Headquarters
 Force HQ 120 points
@@ -194,15 +203,23 @@ Humans are resourceful. Soldiers and scientists scavenge through the wreckage of
 In Late-War games, like the Invasion scenario below, human forces may have the advantage of captured alien technology and soldiers with first hand experience fighting the Greys. Any Late-War force battling the Greys may include, at no additional point cost, up to two options from the list below.
 
 ### Human Death Ray Teams
+
 We’re still trying to figure out how they work, but we know which direction to point them.
+
 Up to one Gun Platoon with no more than four Gun teams may replace its teams’ Guns with Captured Death Rays.
-OR
+
+**OR**
+
 Replace the main gun of up to two Tanks with Captured Death Rays.
  
 ### Unobtanium Armour Plates
+
 A single crashed Saucer can yield enough Unobtanium to clad several tanks.
+
 One Tank Platoon in the company, with up to five tanks, can armor all of its Tanks in layers of Unobtanium plates. The effected Tanks gain Front and Side Armour of 10 or +1, if already 10 or higher and the Unobtanium special rule, allowing re-rolls to armour saves missed on the Front or Side Armour.
+
 In addition, the Tanks are Overloaded and shift their Movement Special Rules as described in the table below.
+
 Becomes
 Fast Tank
 (loose Fast Tank)
@@ -212,11 +229,18 @@ add Plodding (still Very Slow)
 A Plodding Vehicle cannot move At the Double.
 
 ### Remote Control Robot
-Military scientists have salvaged parts from one or more Grey Robots to reconstruct a functional Robot and replaced the Tactical Brain with wiring for remote control. Remote Control Robots are essentially Plodding Foot tanks with human controllers and a support/transport truck that can be used as a Recovery Vehicle, but only for human Remote Control Robot teams.
+
+Military scientists have salvaged parts from one or more Grey Robots to reconstruct a functional Robot and replaced the Tactical Brain with wiring for remote control.
+
+Remote Control Robots are essentially Plodding Foot tanks with human controllers and a support/transport truck that can be used as a Recovery Vehicle, but only for human Remote Control Robot teams.
+
 A company may include a single Captured Robot team, attached to the Company HQ Section, in addition to standard force organization allowances.
+
 Bail Outs are treated normally. The humans run away and dive for cover, coming back to the Robot if it is still standing.
+
 A Plodding Vehicle cannot move At the Double.
 Foot vehicles face tests for being Bogged Down, just like other vehicles.
+
 To represent a Remote Control Robot team, place a single Robot on an Infantry base with 2 human models carrying appropriate equipment, like communications gear or big wrenches.
   Original Movement Special Rule
  Light Tank
@@ -226,11 +250,16 @@ To represent a Remote Control Robot team, place a single Robot on an Infantry ba
  Very Slow Tank
 
 ### Captured Mk1 Saucer
-“I have to procure one of these for myself.” -- Captain Daniel Hilliard, USAF, saucer pilot Attach a Captured Mk1 Saucer to the Company HQ.
+
+> “I have to procure one of these for myself.” - Captain Daniel Hilliard, USAF, saucer pilot Attach a Captured Mk1 Saucer to the Company HQ.
+
 The only difference between a Mk1 Saucer and a Captured Mk1 Saucer is that the captured version is Unreliable. Should the Captured Saucer fail an Unreliable test, it must pass a Skill test or be Destroyed.
-Alien Hunters
+
+### Alien Hunters
+
 Many of these hardened fighters have fought the Greys before. The others have been trained in specific Grey fighting tactics. Their minds are prepared and they know where to hit the alien machines.
-Any one Platoon is immune to Psychological Operations and gains the Anti- Unobtanium special rule. Grey teams and vehicles do not get the benefit of the Unobtanium re-roll when hit by this Platoon.
+
+Any one Platoon is immune to Psychological Operations and gains the Anti-Unobtanium special rule. Grey teams and vehicles do not get the benefit of the Unobtanium re-roll when hit by this Platoon.
 
 ### Gun Team
   Weapon
