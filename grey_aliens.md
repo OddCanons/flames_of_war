@@ -4,7 +4,7 @@
 
 ## Author's note
 
-I enjoy a good game of [Flames of War](https://flamesofwar.com/) and I'm a hopeless science fiction gamer. Although you could use any 15mm alien miniatures with these rules, I have included silhouettes of the [Alternative Armies HOF](https://www.alternative-armies.com/collections/15mm-hof-science-fiction-range) Grey Alien miniatures as a suggestion of how to field them under these rules. They are my favorite of the 15mm options for 1940s alien invaders.
+I enjoy a good game of [Flames of War](https://flamesofwar.com/) and I'm a hopeless science fiction gamer. "Death Rays of War" brings those two things together. Although you could use any 15mm alien miniatures with these rules, I have included silhouettes of the [Alternative Armies HOF](https://www.alternative-armies.com/collections/15mm-hof-science-fiction-range) Grey Alien miniatures as a suggestion of how to field them under these rules. They are my favorite of the 15mm options for 1940s alien invaders.
 
 These rules envision an alternate course for the end of WWII. The "foo" fighter visitors are not content to buzz our battlefields. The major powers have Top Secret research teams dedicated to exploring the strange phenomena reported by sailors, soldiers, and pilots. The aliens spend the early and mid wars experimenting on us and the late war and beyond killing us.
 
@@ -18,7 +18,7 @@ It's late 1943. They have been watching us kill each other. Their calculating mi
    
 ## Greys Special Rules
 
-These rules apply only to Grey teams.
+The following special rules apply only to Grey forces.
 
 ### From Another Planet
 
@@ -450,9 +450,9 @@ Harry Truman is a Warrior. Truman can replace the Command team of any Late War A
 
 ## Alternate Aliens
 
-*This version of the alien invaders is intended for those who think grey aliens are too silly.*
+_This version of the alien invaders is intended for those who think grey aliens are too silly._
 
-“Their” von Neuman probe detected the first faint artificial radio transmissions from the system as it completed its long breaking impulse. The probe spent two silent decades maneuvering into a solar orbit near the resource rich environment of the system’s primary asteroid belt. It continued to monitor the slowly growing transmissions from the third planet, learning to translate them, as it built the first machines it would use to “convert” the system. In addition to the conversion machines template, the probe retrieved neutralization templates from its design library, starting with the space tractors and mass displacement drives.
+_Their_ von Neuman probe detected the first faint artificial radio transmissions from the system as the probe completed its long breaking impulse. The probe spent two silent decades maneuvering into a solar orbit near the resource rich environment of the system’s primary asteroid belt. It continued to monitor the slowly growing transmissions from the third planet, learning to translate them, as it built the first machines it would use to **convert** the system. In addition to the conversion machines template, the probe retrieved neutralization templates from its design library, starting with space tractors and mass displacement drives.
 
 ### Scenario: Alien Invasion (Late-War)
 
