@@ -195,7 +195,7 @@ _You must field the Formation HQ and one Combat Unit from each black box. You ma
 
 ### FOO FIGHTER
 
-| | |
+| ![Foo Fighter - Aircraft](grey_aliens_images/FooFighter.png) | |
 | :------- | -------: |
 | 1x Foo Fighter | **XX&nbsp;POINTS** |
 
