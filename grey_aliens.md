@@ -16,55 +16,37 @@ This is the third draft of the unofficial force description, updated for the fou
 
 It's 1945. They have been watching us kill each other. Their calculating minds were going to wait for the dismantling of the vast worldwide machinery of war, but invading and harvesting a planet defended with nuclear weapons is messier. The strategic brains have reasoned that the invasion should begin at once.
    
-# Greys Special Rules
+# Greys Aliens Special Rules
 
 The following special rules apply only to Grey forces.
 
-### Advanced Aliens
+### DEATH RAY
 
-The Greys are not only alien in form and technology, their very thoughts are alien to the humans who encounter them. Their strange weapons, advanced technology, and tactics rattle enemy combatants. They do not doubt their ultimate victory, nor should they.
+A bright beam of hissing, popping white light reaches out to incinerate flesh and steel. When an opponent team is hit with a Death Ray weapon, count Bail Out results as Destroyed. Passengers are automatically Destroyed (no Passenger Save) when their Vehicles are Destroyed.
 
-All Greys are Arrogant (2+ Motivation) Advanced (2+ Skill Test, 5+ Score to Hit).
-
-### Psychological Operations
+### PSYCHOLOGICAL OPERATIONS
 
 The Greys are adept at undermining the confidence of their enemies. They frequently use ultrasonic and subliminal projectors to add to the effect of their strangeness and their technological superiority.
 
 All Grey opponents add +1 to the score needed for Motivation tests.
 
-### Filthy Apes
+### UNOBTANIUM
+
+In addition to conferring the high all-around armour protection found on most Grey units, Unobtanium confers a re-roll on all Armour Saves and Infantry Saves for units protected by it.
+
+### HANDS OFF
 
 The Greys disdain close contact with humans, except as part of cruel experiments.
 
-Greys may not Assault.
+Grey Infantrys may not Assault.
 
 Greys never Charge as part of a CounterAttack. Surviving Grey teams already within 2”/5cm may fight as usual. Other teams do not move.
 
 In terms of game flavor, Greys actually prefer to Break Off from Assaults, but there are no additional rules, beyond the existing Motivation tests to force this.
 
-### Unobtanium
 
-Alien saucers and robots are clad in alloys previously unknown to human scientists. Hails of shells barely dent them.
 
-In addition to conferring the high all-around armor protection found on most Grey units, Unobtanium confers a re-roll on all failed Armour Saves and Infantry Saves for units protected by it.
 
-### Death Rays
-
-A bright beam of hissing, popping white light reaches out to incinerate flesh and steel.
-
-When an opponent team is hit with a Death Ray weapon, Count Bail Out results as Destroyed. Passengers are automatically Destroyed (no Passenger Save) when their Vehicles are Destroyed.
-
-## Robots
-
-Lumbering mechanical automatons form the back bone of any Grey invasion force, incinerating all before them with death rays. Robots are essentially walking tanks operating in teams. The methodical robot brains can manage the simple task of walking while shooting.
-
-Grey Robot teams are treated like Very Slow Tanks that can't move At the Double.
-
-Grey Robots do not suffer the +1 penalty for firing an ROF 1 weapon after moving.
-
-Each Bail Out result rolled for a Robot team represents one of the Robots being disabled, cutting the Robot team’s number of weapons by one. Three cumulative Bail Out results or a Destroyed result destroys a Robot team.
-
-Foot vehicles face tests for being Bogged Down, just like other vehicles.
  
 ## Saucers
 
