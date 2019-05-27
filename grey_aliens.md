@@ -6,7 +6,7 @@
 
 I enjoy a good game of [Flames of War](https://flamesofwar.com/) and I'm a hopeless science fiction gamer. "Death Rays of War" brings those two things together. Although you could use any 15mm alien miniatures with these rules, I have included silhouettes of the [Alternative Armies HOF](https://www.alternative-armies.com/collections/15mm-hof-science-fiction-range) Grey Alien miniatures as a suggestion of how to field them under these rules. They are my favorite of the 15mm options for 1940s alien invaders.
 
-These rules envision an alternate course for the end of WWII. The "foo" fighter visitors are not content to buzz our battlefields. The major powers have Top Secret research teams dedicated to exploring the strange phenomena reported by sailors, soldiers, and pilots. The aliens spend the early and mid wars experimenting on us and the late war and beyond killing us.
+These rules envision an alternate course for the end of WWII. The "foo fighter" visitors are not content to buzz our battlefields. The major powers have Top Secret research teams dedicated to exploring the strange phenomena reported by sailors, soldiers, and pilots. The aliens spend the early and mid wars experimenting on us and the late war and beyond killing us.
 
 The Greys are meant to represent a near unstoppable force, at least during the time period covered. The key to fun Grey games is to play with the intended force asymmetry, in particular exploring different victory conditions. The intent is for the Grey machines to be just barely vulnerable to the most powerful human guns while giving them a high likelihood of destroying their targets. For space opera fans who want more of a fair fight, there is also a list of stereotypical Warriors to aid in battles against the Greys.
 
@@ -20,44 +20,41 @@ It's late 1943. They have been watching us kill each other. Their calculating mi
 
 The following special rules apply only to Grey forces.
 
-### From Another Planet
-
-#### Advanced Aliens
+### Advanced Aliens
 
 The Greys are not only alien in form and technology, their very thoughts are alien to the humans who encounter them. Their strange weapons, advanced technology, and tactics rattle enemy combatants. They do not doubt their ultimate victory, nor should they.
+
 All Greys are Arrogant (2+ Motivation) Advanced (2+ Skill Test, 5+ Score to Hit).
 
-#### Psychological Operations
+### Psychological Operations
 
 The Greys are adept at undermining the confidence of their enemies. They frequently use ultrasonic and subliminal projectors to add to the effect of their strangeness and their technological superiority.
 
 All Grey opponents add +1 to the score needed for Motivation tests.
 
-#### Filthy Apes
+### Filthy Apes
 
 The Greys disdain close contact with humans, except as part of cruel experiments.
 
 Greys may not Assault.
 
-Greys never Charge as part of a CounterAttack. Surviving Grey teams already within 2”/ 5cm may fight as usual. Other teams do not move.
+Greys never Charge as part of a CounterAttack. Surviving Grey teams already within 2”/5cm may fight as usual. Other teams do not move.
 
 In terms of game flavor, Greys actually prefer to Break Off from Assaults, but there are no additional rules, beyond the existing Motivation tests to force this.
 
-### Technology
-
-#### Unobtanium
+### Unobtanium
 
 Alien saucers and robots are clad in alloys previously unknown to human scientists. Hails of shells barely dent them.
 
 In addition to conferring the high all-around armor protection found on most Grey units, Unobtanium confers a re-roll on all failed Armour Saves and Infantry Saves for units protected by it.
 
-#### Death Rays
+### Death Rays
 
 A bright beam of hissing, popping white light reaches out to incinerate flesh and steel.
 
 When an opponent team is hit with a Death Ray weapon, Count Bail Out results as Destroyed. Passengers are automatically Destroyed (no Passenger Save) when their Vehicles are Destroyed.
 
-#### Robots
+### Robots
 
 Lumbering mechanical automatons form the back bone of any Grey invasion force, incinerating all before them with death rays. Robots are essentially walking tanks operating in teams. The methodical robot brains can manage the simple task of walking while shooting.
 
@@ -69,9 +66,9 @@ Each Bail Out result rolled for a Robot team represents one of the Robots being 
 
 Foot vehicles face tests for being Bogged Down, just like other vehicles.
  
-#### Saucers
+### Saucers
 
-##### Hover
+#### Hover
 
 Invasion support saucers hover above the battlefield, ignoring all but the tallest buildings and terrain. They employ anti-gravity propulsion units to maneuver above the field of battle. Saucers are capable of flight between the Grey mother ships and ground conflicts, but are not designed for sustained flight operations at altitude, unlike their “Foo” Fighter cousins.
 Rough Terrain
@@ -79,7 +76,9 @@ Rough Terrain
 Weapons that are not equipped for AA add +1 to the score to hit a Hovering Vehicle.
 When a Hovering Vehicle is Bailed Out, it must pass a Skill Test or be Destroyed. If it passes the test, it is Bailed Out. A Bailed Out Vehicle with Hover has crash landed and follows the Bailed Out rules, taking to the air again when the crew Remounts. A Hovering Vehicle that crashes in Terrain must roll to avoid being Bogged Down when it crashes. Bogged Down Hovering Vehicles must free themselves before moving again, just like other vehicles.
 Mobile Hover Vehicles cannot be Assaulted.
-Abduction
+
+#### Abduction
+
 Abductees tell horrifying stories of being strapped to metal chairs or tables and being poked and prodded in bizarre and often painful ways. Human scientists believe the abductions are part alien experiments probing for human weaknesses and part cruel sport. No one knows why the Greys release abductees, but there are two competing theories. The first theory is that the Greys are trying to spook us as part of their psychological warfare plan. The second, more sinister, theory is that the Greys are reprogramming the humans as sleeper agents to assist their invasion, when the time is right.
 Abductions follow a familiar script. A Grey Saucer or Science Team gets close to one or more people. A bright light reaches out and captures the target(s). The target(s) disappear only to reappear later in some distant field, usually naked.
 A team with Abduction may choose to attempt an abduction, instead of a normal Shooting or Assault attack. The team targets one Infantry team within 4”/10cm and makes a Skill roll. If they succeed, the target team is removed from the game.
@@ -103,6 +102,8 @@ Anti-aircraft teams add +1 to the score needed to hit Grey Aircraft.
 > "The outcry from the hundreds of millions whose chief concern is the long future of themselves and their children will, I hope, become so universal and so insistent that no man, no government anywhere, can stand apart from this battle.” - Dwight D. Eisenhower, SACAEF
 
 _Your Force must contain at least one Formation, and may contain as many Formations as you like._
+
+![Grey Alien Force](grey_aliens_images/grey_force.png)
 
 Headquarters 1 Force HQ
 Headquarters
@@ -220,6 +221,13 @@ One Tank Platoon in the company, with up to five tanks, can armor all of its Tan
 
 In addition, the Tanks are Overloaded and shift their Movement Special Rules as described in the table below.
 
+ Original Movement Special Rule
+ Light Tank
+ Fast Tank
+ (nothing from this list)
+ Slow Tank
+ Very Slow Tank
+
 Becomes
 Fast Tank
 (loose Fast Tank)
@@ -242,12 +250,6 @@ A Plodding Vehicle cannot move At the Double.
 Foot vehicles face tests for being Bogged Down, just like other vehicles.
 
 To represent a Remote Control Robot team, place a single Robot on an Infantry base with 2 human models carrying appropriate equipment, like communications gear or big wrenches.
-  Original Movement Special Rule
- Light Tank
- Fast Tank
- (nothing from this list)
- Slow Tank
- Very Slow Tank
 
 ### Captured Mk1 Saucer
 
@@ -268,10 +270,11 @@ Mobility Range ROF At Fp Notes Man-packed 16”/40cm 1 12 3+ Death Ray
 
 ## Scenarios
 
-There is a Campaign section following the scenarios. It provides a fair narrative structure for two players to try out these rules and to play the scenarios, even if the rules and individual scenarios are still unbalanced.
+There is a Campaign section following the scenarios. It provides a fair narrative structure for two players to try out these rules and to play the scenarios, even if the rules and individual scenarios are unbalanced.
 
 ## Close Encounter (Early or Mid War)
 The Grey scientists have been probing humanity for weaknesses, conducting experiments to find ways to speed the success of an invasion. This early or mid war scenario portrays an encounter with a small Grey “Science” party.
+
 Close Encounter uses the Night Fighting, Delayed Reserves, Scattered Reserves, and Prepared Positions special rules.
 Grey Forces (Attacker)
 • (2iC) Science Team
@@ -300,7 +303,7 @@ tank 10 or better, regardless of the effect of the hit (the Greys bug out as the
 Who Won?
 The attacker wins if he successfully abducts all of the Infantry teams from the de- fender’s initial Infantry Platoon. The defender wins if at least one of those initial Infantry teams is still around at the end.
 
- It's a Barrage Balloon (Early or Mid War)
+## It's a Barrage Balloon (Early or Mid War)
 Human pilots managed to shoot down a Grey saucer. It crash landed on a farm near a small town. As both sides race to secure the crash site, their intelligence offices prepare the same cover story, “an experimental barrage balloon crashed in a field.” As opposing sides approach they find out there were survivors. Why do these things always happen at night?
 It’s a Barrage Balloon uses the Night Fighting, Fair Fight, Mobile Battle, and Reserves special rules.
 Attacker Force
@@ -327,7 +330,8 @@ The battle ends when both:
 Who Won?
 The player who captured the Saucer wins. It is only a partial victory if the Saucer was Destroyed.
 
- The Earth Stands Still (Mid War)
+## The Earth Stands Still (Mid War)
+
 It's November 7th, 1943, the day the "foo" researchers dreaded. A single alien saucer lands in the capital of every major nation. Out of each saucer march six alien robots. The lead robot demands cessation of hostilities and total capitulation. A few nations surrender, but most respond with force. The Greys are trying to capture key civilian leaders to use as brainwashed spokesmen to pacify the masses of each nation. The human forces have detected building radio transmission that appear to be part of the invasion plan. In addition to protecting their civilian leaders the human forces want to knock out those transmitters.
 The Earth Stands Still uses the Not One Step Back Street-Fighting Mission from the Flames of War (2 ed) book.
 Grey Forces
@@ -343,7 +347,7 @@ obvious central mall at the heart of a capital that has room for a saucer and so
 Robots
 • The attacker keeps no units in Reserve
 
- Last Hope (Late War)
+## Last Hope (Late War)
 Human scientists have been studying recovered Greys and Grey technology. They believe they have found a weakness that they can exploit in a super weapon that will turn back the tide of invasion. The Greys have uncovered the plan and dispatched a force to destroy the lab complex where they believe the human scientists are assembling the weapon.
 The alien spearhead is closing in on the decoy lab. The defenders are trying to buy time for the scientists in the real lab to complete their work. Human life is becoming far to precious to throw away in a last stand for a decoy, but the leaders do hope to slow down the Greys enough to keep them from discovering the secret until it is too late.
 If only we had listened to Grote Reber.
@@ -361,7 +365,7 @@ The players play the Fighting Withdrawal Mission with the following small adjust
 • The defender can choose any remaining objective to remove when it is time to remove
 an objective
  
- Campaign
+## Campaign
 The scenarios above can be played as an episodic invasion campaign. The campaign structure serves to even out the challenge for the two players, even if the Greys’ abilities, points values, and the scenarios are not yet balanced. Start with two people and add a third for the final scenario. Players 1 and 2 may be any nations, but each player must be the same nation throughout the campaign. Players may choose completely different forces from scenario to scenario, provided each force is compatible with the time period and scenario and campaign rules.
   Close Encounter
 It’s a Barrage Balloon
@@ -409,7 +413,8 @@ Points
 1
 If a player Destroys a Grey team, even if that team was previously “damaged” by the other player, the player who Destroyed the team is awarded points as outlined in the Invasion Scoring table.
 
- Archetypal Warriors
+## Archetypal Warriors
+
 Players using the Grey rules, can take advantage of the Warriors listed below in addition to the Warriors already available. Players should agree ahead of time on whether or not to allow these Warriors in their Grey games. They may significantly change the tone and balance of your games. They have undergone less play testing (if any) than the rest of the rules.
 Dr. Zboden
 The crazy Russian scientist is famous for his “bottled lightning” experiments with elec- tricity. He has recently outfitted a Russian Platoon with shells that unleash horrific elec- trical energies in addition to their normal damage.
@@ -426,7 +431,7 @@ Sidereal Pendulum: Instead of shooting, von Liebenfels may reveal any one en- em
 Projection: von Liebenfels taps Thule energy to unleash a blast of techno- magic power at the enemy. He has Range 8”/20cm, ROF 2, Anti-tank 10, and Firepower 4+.
 Oratory and Sophistry: Teams in von Liebenfels’ Platoon add -1 to their score needed for Motivation tests.
 
- Warrior One
+### Warrior One
 Joe Nelson was a researcher working on the Manhattan Project when he received what should have been a lethal dose of radiation from an accident during a critical mass ex- periment. Even as Nelson grew stronger, he began to produce increasing levels of ra- diation, occasionally emitting directional bursts. After the deaths of many doctors, nurses, and other hospital staff, Nelson was transferred to the Project 1943 labs.
 The Project 1943 scientists built for Nelson first a lead room, then an Unobtanium room, then a series of Unobtanium armour suits, all of the Unobtanium coming from a crashed Grey saucer. Nelson now wears the first Warrior class suit. In addition to protecting those around him from radiation, the Warrior suit provides him with unearthly protection and helps him focus his radiation bursts into monstrous beams of radiation. Although he is merely remarkable in an Assault and has only typical speed, Warrior One is a potent force on any battle field.
 Characteristics
