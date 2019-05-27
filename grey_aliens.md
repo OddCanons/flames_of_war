@@ -6,9 +6,9 @@
 
 I enjoy a good game of [Flames of War](https://flamesofwar.com/) and I'm a hopeless science fiction gamer. "Death Rays of War" brings those two things together. Although you could use any 15mm alien miniatures with these rules, I have included silhouettes of the [Alternative Armies HOF](https://www.alternative-armies.com/collections/15mm-hof-science-fiction-range) Grey Alien miniatures as a suggestion of how to field them under these rules. They are my favorite of the 15mm options for 1940s alien invaders.
 
-These rules envision an alternate course for the end of WWII. The "foo fighter" visitors are not content to buzz our battlefields. The major powers have Top Secret research teams dedicated to exploring the strange phenomena reported by sailors, soldiers, and pilots. The aliens spend the early and mid wars experimenting on us and the late war and beyond killing us.
+These rules envision an alternate course for the end of WWII. The "foo fighter" visitors are not content to buzz our battlefields. The major powers have top secret research teams dedicated to exploring the strange phenomena reported by sailors, soldiers, and pilots. The aliens spend the early-war and mid-war periods experimenting on us and the late-war and beyond killing us.
 
-The Greys are meant to represent a near unstoppable force, at least during the time period covered. The key to fun Grey games is to play with the intended force asymmetry, in particular exploring different victory conditions. The intent is for the Grey machines to be just barely vulnerable to the most powerful human guns while giving them a high likelihood of destroying their targets. For space opera fans who want more of a fair fight, there is also a list of stereotypical Warriors to aid in battles against the Greys.
+The Greys are meant to represent a near unstoppable force, at least during the time period covered. The key to fun Grey games is to play with the force asymmetry, in particular exploring different victory conditions. The intent is for the Grey machines to be just barely vulnerable to the most powerful human guns while giving them a high likelihood of destroying their targets. For space opera fans who want more of a fair fight, there is also a list of stereotypical pulp science fiction and super hero units to aid in battles against the Greys.
 
 This is the third draft of the unofficial force description, updated for the fourth edition of Flames of War.
 
@@ -119,6 +119,15 @@ _You must field the Formation HQ and one Combat Unit from each black box. You ma
 | :------- | -------: |
 | 1x Alpha Mu HQ Team | **XX&nbsp;POINTS** |
 
+
+
+| TACTICAL | TERRAIN DASH | CROSS COUNTRY DASH | ROAD DASH | CROSS |
+| :------: | :----------: | :----------------: | :-------: | :-----: |
+|  |  |  |  |  |
+
+| WEAPON | RANGE | ROF HALTED | ROF MOVING | ANTI-TANK | FP | NOTES |
+| :----- | :---: | :--------: | :--------: | :--------: | :-: | :----- |
+|  |  |  |  |  |  |  |
 
 ### BETA MU HQ
 
