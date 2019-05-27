@@ -113,13 +113,49 @@ _You must field the Formation HQ and one Combat Unit from each black box. You ma
 
 ![Mu Cluster - Infantry Company](grey_aliens_images/MuCluster.png)
 
+### ALPHA MU HQ
+
+| ![Alpha Mu HQ - Infantry Team](grey_aliens_images/AlphaMuHQ.png) | |
+| :------- | -------: |
+| 1x Alpha Mu HQ Team | **XX&nbsp;POINTS** |
+
+
+### BETA MU HQ
+
+| ![Beta Mu HQ - Infantry Team](grey_aliens_images/BetaMuHQ.png) | |
+| :------- | -------: |
+| 1x Beta Mu HQ Team | **XX&nbsp;POINTS** |
+
+
+### MU DEATH RAY PLATOON
+
+| ![Mu Death Ray Platoon - Infantry Team](grey_aliens_images/MuDeathRayPlatoon.png) | |
+| :------- | -------: |
+| 4x Mu Death Ray Team | **XX&nbsp;POINTS** |
+| 3x Mu Death Ray Team | **XX&nbsp;POINTS** |
+| 2x Mu Death Ray Team | **XX&nbsp;POINTS** |
+| 1x Mu Death Ray Team | **XX&nbsp;POINTS** |
+
 ## Rho Cluster
 
 **TANK FORMATION**
 
-_You must field the Formation HQ and one Combat Unit from each black box._
+_You must field the Formation HQ and one Combat Unit from each black box. You may also field one combat unit from each grey box._
 
 ![Rho Cluster - Tank Company](grey_aliens_images/RhoCluster.png)
+
+### RHO ROBOT HQ
+
+| ![Rho Robot HQ - Armour](grey_aliens_images/RhoRobotHQ.png) | |
+| :------- | -------: |
+| 1x Mu Robot HQ | **XX&nbsp;POINTS** |
+
+### ROBOT PLATOON
+
+| ![Rho Robot Platoon - Armour](grey_aliens_images/RobotPlatoon.png) | |
+| :------- | -------: |
+| 2x Robots | **XX&nbsp;POINTS** |
+| 1x Robots | **XX&nbsp;POINTS** |
 
 ## Psi Cabal
 
@@ -128,6 +164,40 @@ _You must field the Formation HQ and one Combat Unit from each black box._
 _You must field the Formation HQ and one Combat Unit from each black box. You may also field one combat unit from each grey box._
 
 ![Psi Cabal - Infantry Company](grey_aliens_images/PsiCabal.png)
+
+### PSI HQ
+
+| ![Psi HQ - Infantry Team](grey_aliens_images/PsiHQ.png) | |
+| :------- | -------: |
+| 1x Psi HQ Team | **XX&nbsp;POINTS** |
+
+### PSI EXPERIMENTAL DEATH RAY
+
+| ![Psi HQ - Infantry Team](grey_aliens_images/PsiExperimentalDeathRay.png) | |
+| :------- | -------: |
+| 1x Psi Experimental Death Ray Team | **XX&nbsp;POINTS** |
+
+## SUPPORT
+
+### SAUCER
+
+| ![Saucer - Anti-Tank](grey_aliens_images/Saucer.png) | |
+| :------- | -------: |
+| 1x Saucer | **XX&nbsp;POINTS** |
+
+### MU OBSERVER
+
+| ![Mu Observer - Infantry Team](grey_aliens_images/MuObserver.png) | ![Mu Observer - Infantry Team](grey_aliens_images/MuObserverBots.png) |
+| :------- | -------: |
+| 3x Mu Observer Team | **XX&nbsp;POINTS** |
+| 2x Mu Observer Team | **XX&nbsp;POINTS** |
+| 1x Mu Observer Team | **XX&nbsp;POINTS** |
+
+### FOO FIGHTER
+
+| | |
+| :------- | -------: |
+| 1x Foo Fighter | **XX&nbsp;POINTS** |
 
 Headquarters 1 Force HQ
 Headquarters
@@ -300,10 +370,16 @@ Mobility Range ROF At Fp Notes Man-packed 16”/40cm 1 12 3+ Death Ray
 
 There is a Campaign section following the scenarios. It provides a fair narrative structure for two players to try out these rules and to play the scenarios, even if the rules and individual scenarios are unbalanced.
 
-## Close Encounter (Early or Mid War)
-The Grey scientists have been probing humanity for weaknesses, conducting experiments to find ways to speed the success of an invasion. This early or mid war scenario portrays an encounter with a small Grey “Science” party.
+## CLOSE ENCOUNTER (Early-War or Mid-War)
+
+The Grey scientists have been probing humanity for weaknesses, conducting experiments to find ways to speed the success of an invasion. This early-war or mid-war scenario portrays an encounter with a small Grey “science” party.
+
+### SPECIAL RULES
 
 Close Encounter uses the Night Fighting, Delayed Reserves, Scattered Reserves, and Prepared Positions special rules.
+
+### SETTING UP
+
 Grey Forces (Attacker)
 • (2iC) Science Team
 • Mk 2 Science Saucer
@@ -313,7 +389,11 @@ Greys are not effected by the Night Fighting rules. Use of the Abduction Ability
  
  Human Forces (Defender)
 You may field any legal 600 point force from any nation, provided the force includes at least one Infantry Platoon. Your forces are stretched thin on this part of the map. They have made camp for the night.
-Preparation
+
+![Close Encounter scenario table](grey_aliens_images/CloseEncounterTable.png)
+
+### DEPLOYMENT
+
 1. The defender deploys an Infantry Platoon in the area marked in the center of the table. They are in Prepared Positions.
 2. The rest of the defender’s Platoons are held in Reserve.
 3. The attacker deploys in the corner as marked.
@@ -321,19 +401,26 @@ Beginning the Battle
 1. The attacker has the first turn.
 2. The defender’s initial Infantry Platoon is not Destroyed in the event of a failed Morale
 Check, they are only Pinned Down. They may not leave the table, except through Abduction.
-Ending the Battle
+
+### WINNING THE GAME
+
 The battle ends when either:
 • all of the initially deployed Infantry teams have been abducted
 • the 2iC Science team is Destroyed
 • the Mk2 Science Saucer is Destroyed
 • the Mk2 Science Saucer is hit by one of the Reserve teams using a weapon with Anti-
 tank 10 or better, regardless of the effect of the hit (the Greys bug out as the Reserves close in)
-Who Won?
+
 The attacker wins if he successfully abducts all of the Infantry teams from the de- fender’s initial Infantry Platoon. The defender wins if at least one of those initial Infantry teams is still around at the end.
 
-## It's a Barrage Balloon (Early or Mid War)
+## IT'S A BARRAGE BALLOON (Early-War or Mid-War)
+
 Human pilots managed to shoot down a Grey saucer. It crash landed on a farm near a small town. As both sides race to secure the crash site, their intelligence offices prepare the same cover story, “an experimental barrage balloon crashed in a field.” As opposing sides approach they find out there were survivors. Why do these things always happen at night?
+
+### SPECIAL RULES
 It’s a Barrage Balloon uses the Night Fighting, Fair Fight, Mobile Battle, and Reserves special rules.
+
+### SETTING UP
 Attacker Force
 You have a 600 point force. Secure the crashed alien saucer, preferably intact.
 Defender Force
@@ -341,7 +428,10 @@ You have a 600 point force. Secure the crashed alien saucer, preferably intact.
 “Neutral” Grey Forces
 • Death Ray Team
 • Bogged Down Mk1 Saucer
-Preparation
+
+![Barrage Balloon scenario table](grey_aliens_images/BarrageBalloonTable.png)
+
+### DEPLOYMENT
 1. In addition to the typical farmland and woods terrain on the table, place the crashed Bogged Down Mk1 Saucer objective and a farm building, as shown. There is a Grey Death Ray team in the building, conferring the usual Bulletproof Cover Save. The Saucer cannot free itself and will remain Bogged Down (can’t move, can’t fight, etc.) until it is captured or Destroyed.
 2. Both players roll a die. The player with the higher score chooses a deployment zone and is the attacker. The other player is the defender and deploys on the opposite table edge.
  
@@ -351,23 +441,32 @@ Beginning the Battle
 2. During each player’s shooting step, he may shoot with the Death Ray team. This
 means the Death Ray team is taking double turns until someone manages to Destroy them. The Death Ray team can only shoot, respond to Charges with Defensive fire, and Attack as part of a Counterattack.
 3. If the Saucer is Destroyed by either side, leave it on the table. It can still be captured, it’s just not worth as much.
-Ending the Battle
+
+### WINNING THE GAME
+
 The battle ends when both:
 • the Death Ray team is Destroyed
 • either player starts their turn holding the Saucer
-Who Won?
+
 The player who captured the Saucer wins. It is only a partial victory if the Saucer was Destroyed.
 
-## The Earth Stands Still (Mid War)
+## THE EARTH STANDS STILL (Mid-War)
 
 It's November 7th, 1943, the day the "foo" researchers dreaded. A single alien saucer lands in the capital of every major nation. Out of each saucer march six alien robots. The lead robot demands cessation of hostilities and total capitulation. A few nations surrender, but most respond with force. The Greys are trying to capture key civilian leaders to use as brainwashed spokesmen to pacify the masses of each nation. The human forces have detected building radio transmission that appear to be part of the invasion plan. In addition to protecting their civilian leaders the human forces want to knock out those transmitters.
+
+### SPECIAL RULES
 The Earth Stands Still uses the Not One Step Back Street-Fighting Mission from the Flames of War (2 ed) book.
+
+### SETTING UP
+
 Grey Forces
 • Heavy Platoon with 1 Robot Squad • Mk 1 Saucer
 • Priority Air Support
 Human Forces
 The human player assembles a 1500 point force.
-Standard Mission
+
+### STANDARD MISSION: BREAKTHROUGH
+
 The players play the Not One Step Back Mission with the following small adjustments:
 • The Grey player is always the attacker
 • The attacker’s deployment zone should be part of a central square or park, the kind of
@@ -375,11 +474,15 @@ obvious central mall at the heart of a capital that has room for a saucer and so
 Robots
 • The attacker keeps no units in Reserve
 
-## Last Hope (Late War)
+## LAST HOPE (Late-War)
+
 Human scientists have been studying recovered Greys and Grey technology. They believe they have found a weakness that they can exploit in a super weapon that will turn back the tide of invasion. The Greys have uncovered the plan and dispatched a force to destroy the lab complex where they believe the human scientists are assembling the weapon.
+
 The alien spearhead is closing in on the decoy lab. The defenders are trying to buy time for the scientists in the real lab to complete their work. Human life is becoming far to precious to throw away in a last stand for a decoy, but the leaders do hope to slow down the Greys enough to keep them from discovering the secret until it is too late.
+
 If only we had listened to Grote Reber.
-Last Hope uses Fighting Withdrawal Mission from the Flames of War (2 ed) book and the Reserves special rule.
+
+Last Hope uses Rearguard Mission from the Flames of War (2 ed) book and the Reserves special rule.
 Grey Forces
 Any legal Alien Invasion Force worth up to 2000 points
 Human Forces
