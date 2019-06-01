@@ -22,32 +22,28 @@ The following special rules apply only to Grey forces.
 
 ### DEATH RAY
 
-A bright beam of hissing, popping white light reaches out to incinerate flesh and steel. When an opponent team is hit with a Death Ray weapon, count Bail Out results as Destroyed. Passengers are automatically Destroyed (no Passenger Save) when their Vehicles are Destroyed.
+A bright beam of hissing, popping white light reaches out to incinerate steel and flesh.
 
-### PSYCHOLOGICAL OPERATIONS
+When an opponent team is hit with a Death Ray weapon, count Bail Out results as Destroyed. Passengers are automatically Destroyed (no Passenger Save) when their Vehicles are Destroyed.
 
-The Greys are adept at undermining the confidence of their enemies. They frequently use ultrasonic and subliminal projectors to add to the effect of their strangeness and their technological superiority.
+Teams destroyed by Death Rays are removed from the table. They do not leave Wrecks.
 
-All Grey opponents add +1 to the score needed for Motivation tests.
+### PSY OPS
 
-### UNOBTANIUM
 
-In addition to conferring the high all-around armour protection found on most Grey units, Unobtanium confers a re-roll on all Armour Saves and Infantry Saves for units protected by it.
 
-### HANDS OFF
+### SPINDLY
 
-The Greys disdain close contact with humans, except as part of cruel experiments.
+Grey Infantry may not Assault.
 
-Grey Infantrys may not Assault.
-
-Greys never Charge as part of a CounterAttack. Surviving Grey teams already within 2”/5cm may fight as usual. Other teams do not move.
+Grey Infantry never Charge as part of a CounterAttack. Surviving Grey teams already within 2”/5cm may fight as usual. Other teams do not move.
 
 In terms of game flavor, Greys actually prefer to Break Off from Assaults, but there are no additional rules, beyond the existing Motivation tests to force this.
 
+### UNOBTANIUM
 
+In addition to conferring the high all-around armour protection found on most Grey units, Unobtanium confers a re-roll on all Armour Saves, Infantry Saves, and Aircraft Saves for units protected by it.
 
-
- 
 ## Saucers
 
 ### Hover
@@ -97,30 +93,26 @@ _You must field the Formation HQ and one Combat Unit from each black box. You ma
 
 ### ALPHA MU HQ
 
-| ![Alpha Mu HQ - Infantry Team](grey_aliens_images/AlphaMuHQ.png) | |
+![Alpha Mu HQ Team Card](grey_aliens_images/AlphaMuHQTeamCard.png)
+
+| Number | Cost |
 | :------- | -------: |
 | 1x Alpha Mu HQ Team | **XX&nbsp;POINTS** |
 
-
-
-| TACTICAL | TERRAIN DASH | CROSS COUNTRY DASH | ROAD DASH | CROSS |
-| :------: | :----------: | :----------------: | :-------: | :-----: |
-|  |  |  |  |  |
-
-| WEAPON | RANGE | ROF HALTED | ROF MOVING | ANTI-TANK | FP | NOTES |
-| :----- | :---: | :--------: | :--------: | :--------: | :-: | :----- |
-|  |  |  |  |  |  |  |
-
 ### BETA MU HQ
 
-| ![Beta Mu HQ - Infantry Team](grey_aliens_images/BetaMuHQ.png) | |
+![Beta Mu HQ Team Card](grey_aliens_images/BetaMuHQTeamCard.png)
+
+| Number | Cost |
 | :------- | -------: |
 | 1x Beta Mu HQ Team | **XX&nbsp;POINTS** |
 
 
 ### MU DEATH RAY PLATOON
 
-| ![Mu Death Ray Platoon - Infantry Team](grey_aliens_images/MuDeathRayPlatoon.png) | |
+![Death Ray Platoon Team Card](grey_aliens_images/DeathRayPlatoonTeamCard.png)
+
+| Number | Cost |
 | :------- | -------: |
 | 4x Mu Death Ray Team | **XX&nbsp;POINTS** |
 | 3x Mu Death Ray Team | **XX&nbsp;POINTS** |
@@ -137,16 +129,20 @@ _You must field the Formation HQ and one Combat Unit from each black box. You ma
 
 ### RHO ROBOT HQ
 
-| ![Rho Robot HQ - Armour](grey_aliens_images/RhoRobotHQ.png) | |
+![Rho Robot HQ Team Card](grey_aliens_images/RhoRobotHQTeamCard.png)
+
+| Number | Cost |
 | :------- | -------: |
-| 1x Mu Robot HQ | **XX&nbsp;POINTS** |
+| 1x Rho Robot HQ | **2,500&nbsp;POINTS** |
 
 ### ROBOT PLATOON
 
-| ![Rho Robot Platoon - Armour](grey_aliens_images/RobotPlatoon.png) | |
+![Robot Platoon Team Card](grey_aliens_images/RobotPlatoonTeamCard.png)
+
+| Number | Cost |
 | :------- | -------: |
-| 2x Robots | **XX&nbsp;POINTS** |
-| 1x Robots | **XX&nbsp;POINTS** |
+| 2x Robots Team | **4,400&nbsp;POINTS** |
+| 1x Robots Team | **2,200&nbsp;POINTS** |
 
 ## Psi Cabal
 
@@ -158,13 +154,13 @@ _You must field the Formation HQ and one Combat Unit from each black box. You ma
 
 ### PSI HQ
 
-| ![Psi HQ - Infantry Team](grey_aliens_images/PsiHQ.png) | |
+| Number | Cost |
 | :------- | -------: |
 | 1x Psi HQ Team | **XX&nbsp;POINTS** |
 
 ### PSI EXPERIMENTAL DEATH RAY
 
-| ![Psi HQ - Infantry Team](grey_aliens_images/PsiExperimentalDeathRay.png) | |
+| Number | Cost |
 | :------- | -------: |
 | 1x Psi Experimental Death Ray Team | **XX&nbsp;POINTS** |
 
@@ -172,13 +168,13 @@ _You must field the Formation HQ and one Combat Unit from each black box. You ma
 
 ### SAUCER
 
-| ![Saucer - Anti-Tank](grey_aliens_images/Saucer.png) | |
+| Number | Cost |
 | :------- | -------: |
 | 1x Saucer | **XX&nbsp;POINTS** |
 
 ### MU OBSERVER
 
-| ![Mu Observer - Infantry Team](grey_aliens_images/MuObserver.png) | ![Mu Observer - Infantry Team](grey_aliens_images/MuObserverBots.png) |
+| Number | Cost |
 | :------- | -------: |
 | 3x Mu Observer Team | **XX&nbsp;POINTS** |
 | 2x Mu Observer Team | **XX&nbsp;POINTS** |
@@ -186,12 +182,11 @@ _You must field the Formation HQ and one Combat Unit from each black box. You ma
 
 ### FOO FIGHTER
 
-| ![Foo Fighter - Aircraft](grey_aliens_images/FooFighter.png) | |
+| Number | Cost |
 | :------- | -------: |
 | 1x Foo Fighter | **XX&nbsp;POINTS** |
 
-Headquarters 1 Force HQ
-Headquarters
+
 Force HQ 120 points
 Options
 • Add a Mk 1 Saucer at a cost of 230 points.
@@ -218,17 +213,8 @@ HQ Section with
  Grey Arsenal Tank Teams
    Name
  Weapon
- Robot team
- Eye Beams
- Eye Beams
- Eye Beams
- Mk1 Saucer
- Omni Beam
- Mk2 Science Saucer
- Remote Control Robot Team
- Eye Beams
- Captured Mk1 Saucer
- Omni Beam
+
+
 Infantry Teams
 Front
 ROF
@@ -246,13 +232,7 @@ Fp
 3+ 3+ 3+ 3+
 Fp
 2+
-Equipment and Notes
-Robots, Unobtanium
-Death Ray
-Death Ray
-Death Ray
-Unobtanium
-Death Ray
+
 Abduction, Unobtanium
 Plodding, Unobtanium, Unreliable Death Ray
 Unobtanium, Unreliable Death Ray
