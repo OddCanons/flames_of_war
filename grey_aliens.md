@@ -16,7 +16,7 @@ This is the third draft of the unofficial force description, updated for the fou
 
 It's 1945. They have been watching us kill each other. Their calculating minds were going to wait for the dismantling of the vast worldwide machinery of war, but invading and harvesting a planet defended with nuclear weapons is messier. The strategic brains have reasoned that the invasion should begin at once.
    
-# Greys Aliens Special Rules
+# Grey Aliens Special Rules
 
 The following special rules apply only to Grey forces.
 
@@ -154,11 +154,15 @@ _You must field the Formation HQ and one Combat Unit from each black box. You ma
 
 ### PSI HQ
 
+![Psi HQ Team Card](grey_aliens_images/PsiHQTeamCard.png)
+
 | Number | Cost |
 | :------- | -------: |
 | 1x Psi HQ Team | **XX&nbsp;POINTS** |
 
 ### PSI EXPERIMENTAL DEATH RAY
+
+![Psi Experimental Death Ray Team Card](grey_aliens_images/PsiExperimentalDeathRayTeamCard.png)
 
 | Number | Cost |
 | :------- | -------: |
@@ -186,87 +190,11 @@ _You must field the Formation HQ and one Combat Unit from each black box. You ma
 | :------- | -------: |
 | 1x Foo Fighter | **XX&nbsp;POINTS** |
 
-
-Force HQ 120 points
-Options
-• Add a Mk 1 Saucer at a cost of 230 points.
-• OR add a Mk 2 Science Saucer at a cost of 120 points.
-• OR add “Foo” Fighter air support at a cost of 150 points for Limited Air Support or 180 points for Priority Air Support.
-Combat Platoons 1 or 2 Landing Platoons
-   •
-   Platoon
-HQ Section with
-1 Clone Squad
-2 Clone Squads Option
-270 points 400 points
-• Add a Mk1 Saucer at a cost of 230 points.
-
- Weapons Platoons Heavy Platoon
-Platoon
-HQ Section with
-1 Robot Squad 1180 points 2 Robot Squads 1820 points
-   Force Support Platoons Recon Platoon
-Platoon
-HQ Section with
-1 Scout Squad 100 points 2 Scout Squads 150 points
-   
- Grey Arsenal Tank Teams
-   Name
- Weapon
-
-
-Infantry Teams
-Front
-ROF
-10
-1 1 1 11 2 10 10 1 11 1
-ROF
-1 1 1 2
-To Hit
-2+
-Top
-Fp
-3
-2+ 2+ 2+ 4 2+ 4 3 2+ 4 2+
-Fp
-3+ 3+ 3+ 3+
-Fp
-2+
-
-Abduction, Unobtanium
-Plodding, Unobtanium, Unreliable Death Ray
-Unobtanium, Unreliable Death Ray
-Notes
-Death Ray, Unobtanium Abduction, Unobtanium Unobtanium Unobtanium
-Notes
-Death Ray, Flying Tank, Grey Aircraft
-Mobility
-Range
-Foot
-32”/80cm 32”/80cm 32”/80cm Hover 40”/100cm Hover Foot 32”/80cm Hover 40”/100cm
-Armour Side At 10 13 13 13 11 13 10 10 13 11 13
-At
-12 8 8 8
-At
-12
-  Team
- Death Ray team
- Science team
- Scout team
- Scoutbot team
-Aircraft
-Range
-16”/40cm 8”/20cm 32”/80cm 16”/40cm
-Weapon
-Beam
-  Aircraft
- “Foo” Fighter
-
 # Captured Alien Technology
 
 Humans are resourceful. Soldiers and scientists scavenge through the wreckage of crashed saucers and burnt out robots, looking for knowledge of Grey weaknesses and weapons that can keep humanity in the fight.
 
-In Late-War games, like the Invasion scenario below, human forces may have the advantage of captured alien technology and soldiers with first hand experience fighting the Greys. Any Late-War force battling the Greys may include, at no additional point cost, up to two options from the list below.
+In Late-War games, like the Invasion scenario below, human forces may have the advantage of captured alien technology and soldiers with first hand experience fighting the Greys. Any Late-War force battling the Greys may include, _at no additional point cost_, up to two options from the list below.
 
 ## Human Death Ray Teams
 
@@ -282,59 +210,35 @@ Replace the main gun of up to two Tanks with Captured Death Rays.
 
 A single crashed Saucer can yield enough Unobtanium to clad several tanks.
 
-One Tank Platoon in the company, with up to five tanks, can armor all of its Tanks in layers of Unobtanium plates. The effected Tanks gain Front and Side Armour of 10 or +1, if already 10 or higher and the Unobtanium special rule, allowing re-rolls to armour saves missed on the Front or Side Armour.
+One Tank Platoon in the company, with up to five tanks, can armor all of its Tanks with Unobtanium plates. The effected Tanks gain Front and Side Armour of 13 or +2, if already 13 or higher and the Unobtanium special rule, allowing re-rolls to armour saves missed on the Front or Side Armour.
 
 In addition, the Tanks are Overloaded and shift their Movement Special Rules as described in the table below.
 
- Original Movement Special Rule
- Light Tank
- Fast Tank
- (nothing from this list)
- Slow Tank
- Very Slow Tank
-
-Becomes
-Fast Tank
-(loose Fast Tank)
-Slow Tank
-Very Slow Tank
-add Plodding (still Very Slow)
-A Plodding Vehicle cannot move At the Double.
-
 ## Remote Control Robot
 
-Military scientists have salvaged parts from one or more Grey Robots to reconstruct a functional Robot and replaced the Tactical Brain with wiring for remote control.
-
-Remote Control Robots are essentially Plodding Foot tanks with human controllers and a support/transport truck that can be used as a Recovery Vehicle, but only for human Remote Control Robot teams.
+Military scientists have salvaged parts from one or more Grey Robots to reconstruct a functional Robot team and replaced the Tactical Brain with wiring for remote control.
 
 A company may include a single Captured Robot team, attached to the Company HQ Section, in addition to standard force organization allowances.
 
 Bail Outs are treated normally. The humans run away and dive for cover, coming back to the Robot if it is still standing.
 
-A Plodding Vehicle cannot move At the Double.
-Foot vehicles face tests for being Bogged Down, just like other vehicles.
-
-To represent a Remote Control Robot team, place a single Robot on an Infantry base with 2 human models carrying appropriate equipment, like communications gear or big wrenches.
+To represent a Remote Control Robot team, place two Robots on an Infantry base with 2 human models carrying appropriate equipment, like communications gear or big wrenches.
 
 ## Captured Mk1 Saucer
 
-> “I have to procure one of these for myself.” - Captain Daniel Hilliard, USAF, saucer pilot Attach a Captured Mk1 Saucer to the Company HQ.
+> “I have to procure one of these for myself.” - Captain Daniel Hilliard, USAF, saucer pilot
 
-The only difference between a Mk1 Saucer and a Captured Mk1 Saucer is that the captured version is Unreliable. Should the Captured Saucer fail an Unreliable test, it must pass a Skill test or be Destroyed.
+Attach a Captured Mk1 Saucer to the Company HQ.
+
+The only difference between a Saucer and a Captured Mk1 Saucer is that the captured version is Unreliable. Should the Captured Saucer fail an Unreliable test, it must pass a Skill test or be Destroyed.
 
 ## Alien Hunters
 
 Many of these hardened fighters have fought the Greys before. The others have been trained in specific Grey fighting tactics. Their minds are prepared and they know where to hit the alien machines.
 
-Any one Platoon is immune to Psychological Operations and gains the Anti-Unobtanium special rule. Grey teams and vehicles do not get the benefit of the Unobtanium re-roll when hit by this Platoon.
-
-### Gun Team
-  Weapon
- Captured Death Ray
-Mobility Range ROF At Fp Notes Man-packed 16”/40cm 1 12 3+ Death Ray
+Any one Platoon is immune to Psy Ops and gains the Anti-Unobtanium special rule. Grey teams and vehicles do not get the benefit of the Unobtanium re-roll when hit by this Platoon.
 
 # Nukes
-
 
 
 # Scenarios
