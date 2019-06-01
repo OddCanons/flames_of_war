@@ -46,7 +46,7 @@ In addition to conferring the high all-around armour protection found on most Gr
 
 ## Saucers
 
-### Hover
+### HOVER
 
 Invasion support saucers hover above the battlefield, ignoring all but the tallest buildings and terrain. They employ anti-gravity propulsion units to maneuver above the field of battle. Saucers are capable of flight between the Grey mother ships and ground conflicts, but are not designed for sustained flight operations at altitude, unlike their “Foo” Fighter cousins.
 Rough Terrain
@@ -55,7 +55,7 @@ Weapons that are not equipped for AA add +1 to the score to hit a Hovering Vehic
 When a Hovering Vehicle is Bailed Out, it must pass a Skill Test or be Destroyed. If it passes the test, it is Bailed Out. A Bailed Out Vehicle with Hover has crash landed and follows the Bailed Out rules, taking to the air again when the crew Remounts. A Hovering Vehicle that crashes in Terrain must roll to avoid being Bogged Down when it crashes. Bogged Down Hovering Vehicles must free themselves before moving again, just like other vehicles.
 Mobile Hover Vehicles cannot be Assaulted.
 
-### Abduction
+### ABDUCTION
 
 Abductees tell horrifying stories of being strapped to metal chairs or tables and being poked and prodded in bizarre and often painful ways. Human scientists believe the abductions are part alien experiments probing for human weaknesses and part cruel sport. No one knows why the Greys release abductees, but there are two competing theories. The first theory is that the Greys are trying to spook us as part of their psychological warfare plan. The second, more sinister, theory is that the Greys are reprogramming the humans as sleeper agents to assist their invasion, when the time is right.
 Abductions follow a familiar script. A Grey Saucer or Science Team gets close to one or more people. A bright light reaches out and captures the target(s). The target(s) disappear only to reappear later in some distant field, usually naked.
@@ -171,6 +171,8 @@ _You must field the Formation HQ and one Combat Unit from each black box. You ma
 ## SUPPORT
 
 ### SAUCER
+
+![Saucer Team Card](grey_aliens_images/Saucer TeamCard.png)
 
 | Number | Cost |
 | :------- | -------: |
